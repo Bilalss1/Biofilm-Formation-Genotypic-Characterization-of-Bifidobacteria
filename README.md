@@ -1,37 +1,38 @@
 # Biofilm-Formation-Genotypic-Characterization-of-Bifidobacteria
-A research project investigating whether Bifidobacterium strains from commercial yoghurt and probiotic supplements possess the ability to form beneficial biofilms and carry genes associated with that trait. Completed as part of an MSc project and later published in a peer-reviewed journal.
+Research project evaluating the biofilm-forming ability and genetic characteristics of Bifidobacteria isolated from commercial yogurts and probiotic supplements sold in the UK. Completed as part of my MSc project and published in a peer-reviewed journal.
 
 **📌 Abstract**
 
-Biofilms are structured microbial communities that allow bacteria to survive longer and compete against pathogens. This study **isolated Bifidobacteria** from commercial yoghurt products and probiotic supplements in the **UK** to determine their ability to **form biofilms** and whether they carry genetic markers linked to this behaviour.
-Isolates were identified using selective media, Gram staining, biochemical tests and a RapID ANA II system. Biofilm formation was quantified using the crystal violet microtiter plate assay and compared with known pathogenic biofilm-forming organisms, including **S. aureus (MRSA)**, **P. aeruginosa**, **E. coli**, **Listeria monocytogenes** and others.
-**Genetic characterisation** was performed using **ITS-PCR** (16S–23S rDNA intergenic spacer region) followed by **gel electrophoresis** to confirm species-specific bands.
-This study supports the idea that food-derived Bifidobacteria can form protective and beneficial biofilms, helping to improve gut colonization and reduce infection risk. These findings provide important groundwork for future wet-lab validation and for improving the functional design of probiotic foods and therapeutics.
+Biofilms help probiotic bacteria survive harsh digestive conditions, attach to the gut lining, and protect against harmful pathogens. This project focused on Bifidobacteria, a key gut-friendly microbe widely used in fermented dairy foods and supplements. The goal was to determine whether strains found in popular products can form strong biofilms and whether their genetic identity matches consumer claims.
+Eight isolates were obtained from four commercial yogurts and two probiotic supplements using selective culturing under anaerobic conditions. Biofilm formation was assessed over 24, 48, and 72 hours using the crystal violet assay, showing that most isolates demonstrated increasing and measurable biofilm formation over time. Several strains performed comparably to known probiotic references, indicating good colonization potential in the gut. 
+To confirm their identity, **DNA was extracted** and amplified using **ITS-PCR** targeting the 16S–23S rDNA region, followed by gel electrophoresis. All tested isolates produced clear bands with distinguishable patterns, confirming they were Bifidobacteria and showing genetic diversity among strains. **Statistical analysis** revealed a significant link between incubation time and biofilm strength. 
+This research demonstrates that many commercial products do contain Bifidobacteria capable of forming beneficial biofilms, improving survival in the human gut, and supporting long-term gut health. These results highlight the importance of validated probiotic strains and contribute data toward more reliable probiotic development. 
 
-**🧪 Method Overview**
+**🔬 Methods Overview**
 
-- Collected commercial yoghurt and food supplement samples
-- Selective isolation of Bifidobacteria using RCA + mupirocin
-- Gram reaction and biochemical testing
-- RapID ANA II identification
-- Crystal violet assay for biofilm quantification
-- DNA extraction and ITS-PCR
-- Gel electrophoresis for molecular confirmation
-- Statistical analysis using One-Way ANOVA + Post-Hoc testing
+- Selective isolation under anaerobic conditions
+- Colony morphology & biochemical confirmation
+- Crystal violet biofilm quantification (24/48/72 hr)
+- DNA extraction
+- ITS-PCR using Bt-2 primers
+- Gel electrophoresis for band profiling
+- Statistical relationship analysis
 
-**🛠️ Tools / Software Used**
+**🛠️ Tools Used**
 
-- RapID ANA II
-- SPSS
-- PCR Thermocycler
-- Gel Documentation System
+- Biofilm formation assay
+- ITS-PCR
+- Gel electrophoresis
+- DNA extraction kit
+- Standard microbial culturing system
+- Statistical analysis software
 
-**🔍 Key Outcomes**
+**🧪 Key Outcomes**
 
-- Bifidobacteria from everyday foods demonstrate measurable biofilm formation
-- Pathogenic vs. probiotic biofilm profiles can be compared for clinical relevance
-- ITS-PCR confirms species identity, supporting further genomic work
-- Highlights potential for improved probiotic-based infection prevention strategies
+- Commercial probiotics contain biofilm-forming Bifidobacteria
+- Strongest biofilm observed around 48 hours
+- Genetic diversity confirmed via ITS-PCR
+- Supports probiotic efficacy in real-world products
 
 🔗 **External Links**
 

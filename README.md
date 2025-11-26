@@ -6,7 +6,10 @@ Research project evaluating the biofilm-forming ability and genetic characterist
 Biofilms help probiotic bacteria survive harsh digestive conditions, attach to the gut lining, and protect against harmful pathogens. This project focused on Bifidobacteria, a key gut-friendly microbe widely used in fermented dairy foods and supplements. The goal was to determine whether strains found in popular products can form strong biofilms and whether their genetic identity matches consumer claims.
 Eight isolates were obtained from four commercial yogurts and two probiotic supplements using selective culturing under anaerobic conditions. Biofilm formation was assessed over 24, 48, and 72 hours using the crystal violet assay, showing that most isolates demonstrated increasing and measurable biofilm formation over time. Several strains performed comparably to known probiotic references, indicating good colonization potential in the gut. 
 To confirm their identity, **DNA was extracted** and amplified using **ITS-PCR** targeting the 16S–23S rDNA region, followed by gel electrophoresis. All tested isolates produced clear bands with distinguishable patterns, confirming they were Bifidobacteria and showing genetic diversity among strains. **Statistical analysis** revealed a significant link between incubation time and biofilm strength. 
-This research demonstrates that many commercial products do contain Bifidobacteria capable of forming beneficial biofilms, improving survival in the human gut, and supporting long-term gut health. These results highlight the importance of validated probiotic strains and contribute data toward more reliable probiotic development. 
+This research demonstrates that many commercial products do contain Bifidobacteria capable of forming beneficial biofilms, improving survival in the human gut, and supporting long-term gut health. These results highlight the importance of validated probiotic strains and contribute data toward more reliable probiotic development.
+
+![Biofilm](https://github.com/user-attachments/assets/4bf34339-9703-4195-b48c-5368894a46f4)
+
 
 **🔬 Methods Overview**
 
